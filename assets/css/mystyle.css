@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.social-icon {
+    color: crimson;
+}
+
+.social-icon:hover {
+    color: rgb(3, 3, 69);
+    transition: 0.2s;
+}
