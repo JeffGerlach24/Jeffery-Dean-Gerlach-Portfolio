@@ -4,12 +4,115 @@
     margin: 0px;
 }
 
+header h1 {
+    font-size: 60px;
+    text-align: center;
+    padding: 60px;
+    width: 102%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(248, 204, 91);
+}
+
+header a {
+    color: seashell;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav {
+    float: right;
+    margin: 10px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    top: 0px;
+    font-size: 30px;
+    word-spacing: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+.image1 {
+    border-radius: 50%;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    position: static;
+}
+
+.main {
+    text-align: center;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 4px;
+    line-height: 1.75; 
+    flex-wrap: wrap;
+    color: seashell;
+}
+
+.main h2 {
+    color: rgb(248, 204, 91);
+}
+
+div{
+    min-height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.projects {
+    text-align: center;
+    padding: 120px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.projects h2 {
+    color: rgb(248, 204, 91);
+}
+
+.resume {
+    text-align: center;
+    padding: 120px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.resume h2 {
+    color: rgb(248, 204, 91);
+}
+
+.contact {
+    text-align: center;
+    padding: 120px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: seashell;
+}
+
+.contact h2 {
+    color: rgb(248, 204, 91);
+}
+
+footer {
+    text-align: center;
+    font-size: 60px;
+    width: 100%;
+    word-spacing: 50px;
+}
 
 .social-icon {
-    color: crimson;
+    color: rgb(248, 204, 91);
+    text-decoration: none;
 }
 
 .social-icon:hover {
-    color: rgb(3, 3, 69);
+    color: seashell;
     transition: 0.2s;
 }
