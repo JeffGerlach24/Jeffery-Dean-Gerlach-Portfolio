@@ -10,11 +10,11 @@ header h1 {
     padding: 60px;
     width: 102%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(248, 204, 91);
+    color: rgb(2, 235, 235);
 }
 
 header a {
-    color: seashell;
+    color: rgb(2, 235, 235);
     text-decoration: none;
     font-weight: bold;
 }
@@ -50,11 +50,11 @@ header nav ul li {
     word-spacing: 4px;
     line-height: 1.75; 
     flex-wrap: wrap;
-    color: seashell;
+    color: rgb(2, 235, 235);
 }
 
 .main h2 {
-    color: rgb(248, 204, 91);
+    color: rgb(2, 235, 235);
 }
 
 div{
@@ -74,7 +74,7 @@ div{
 }
 
 .projects h2 {
-    color: rgb(248, 204, 91);
+    color: rgb(2, 235, 235);
 }
 
 .resume {
@@ -85,7 +85,7 @@ div{
 }
 
 .resume h2 {
-    color: rgb(248, 204, 91);
+    color: rgb(2, 235, 235);
 }
 
 .contact {
@@ -93,11 +93,11 @@ div{
     padding: 120px;
     font-size: 24px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: seashell;
+    color: rgb(2, 235, 235);
 }
 
 .contact h2 {
-    color: rgb(248, 204, 91);
+    color: rgb(2, 235, 235);
 }
 
 footer {
@@ -108,11 +108,11 @@ footer {
 }
 
 .social-icon {
-    color: rgb(248, 204, 91);
+    color: rgb(2, 235, 235);
     text-decoration: none;
 }
 
 .social-icon:hover {
-    color: seashell;
+    color: rgb(2, 235, 235);
     transition: 0.25s;
 }
