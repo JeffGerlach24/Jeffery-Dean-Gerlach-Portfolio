@@ -113,6 +113,6 @@ footer {
 }
 
 .social-icon:hover {
-    color: rgb(2, 235, 235);
+    color: #ffff;
     transition: 0.25s;
 }
